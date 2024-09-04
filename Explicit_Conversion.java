@@ -1,4 +1,4 @@
-public class Explicit_Conversion {
+public class explicit_Conversion {
     public static void main(String[] args) {
         int discountPercentage = 10;
         double totalPrice = 200;

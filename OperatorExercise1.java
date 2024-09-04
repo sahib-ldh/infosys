@@ -1,6 +1,6 @@
 //Data Types and Operators - Exercise 1
 
-public class Operator_exercise1 {
+public class OperatorExercise1 {
 	public static void main(String[] args) {
 		double principal = 5000;
 		double rate=10;
